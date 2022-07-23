@@ -63,8 +63,7 @@ Development of a system that provides restaurant consumption charts and statisti
 application to make orders in the restaurant QUINCE in San Miguel de Allende
 - Frontend development of UI using technologies such as React, Material UI, styled
 components, css, sass and tailwind
-- Create an deploy a component library for the UI with vanilla css (Also the documentation too):
-Add the link of documentation ---> https://etiquette.test.appsinti.com/
+- Create an deploy a component library for the UI with vanilla css (Also the documentation too)
 - Refactor and clean code
 - Remote work with coworkersdifferent countries and client in Texas, USA.
 - Agile Methodologies: SCRUM
