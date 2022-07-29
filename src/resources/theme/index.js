@@ -1,9 +1,9 @@
 const size = {
     mobileXS: '281px',
-    mobileS: '321px',
+    mobileS: '335px',
     mobileM: '375px',
-    mobileL: '425px',
-    mobile: '500px',
+    mobileL: '420px',
+    mobile: '525px',
     tablet: '768px',
     laptop: '1024px',
     desktop: '2560px',
