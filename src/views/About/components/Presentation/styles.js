@@ -6,13 +6,13 @@ const PresentationContainer = styled.div`
     grid-template-columns: 40% 60%;
     align-items: center;
     justify-items: center;
-    width: 90%;
+    width: 85%;
     margin: 0 auto;
     @media ${device.tablet} { 
         grid-template-columns: 100%;
         p {
             text-align: center;
-            margin: 20px auto;
+            /* margin: 20px auto; */
         }
     }
     
@@ -32,6 +32,7 @@ const PresentationContainer = styled.div`
         font-size: 20px;
         font-weight: 400;
         margin: 15px 0 5px 0;
+        max-width: 850px;
 
         svg {
             width: 80px;
@@ -41,6 +42,7 @@ const PresentationContainer = styled.div`
     h5{
         font-style: italic;
         font-size: 20px;
+        max-width: 850px;
 
         background-color: ${colors.light};
         opacity: 0.6;
