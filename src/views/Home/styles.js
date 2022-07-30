@@ -31,8 +31,8 @@ const Grid = styled.div`
     }
 
     .logo {
-        padding-top: 25px;
-        width: 100%;
+        padding-top: 15px;
+        width: 80%;
         margin: 0 auto;
         justify-self: end;
     }
@@ -53,7 +53,7 @@ const Grid = styled.div`
 const IconsGrid = styled.div`
     max-width: 500px;
     margin: 0 auto;
-    padding: 80px 0;
+    padding: 50px 0;
     display: grid;
     grid-template-columns: repeat(4, 25%);
     align-items: center;
