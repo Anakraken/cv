@@ -5,9 +5,10 @@ const size = {
     mobileL: '420px',
     mobile: '525px',
     tablet: '768px',
-    laptop: '1024px',
+    laptop: '1030px',
     desktop: '2560px',
     height: '1024px',
+    custom: '1045px',
   };
 export const device = {
     mobileXS: `(max-width: ${size.mobileXS})`,
@@ -19,7 +20,8 @@ export const device = {
     laptop: `(max-width: ${size.laptop})`,
     desktop: `(max-width: ${size.desktop})`,
     desktopL: `(max-width: ${size.desktop})`,
-    height: `(min-height: ${size.height})`
+    height: `(min-height: ${size.height})`,
+    custom: `(max-width: ${size.custom})`,
   };
 
 export const colors = {

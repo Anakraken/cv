@@ -12,7 +12,6 @@ const PresentationContainer = styled.div`
         grid-template-columns: 100%;
         p {
             text-align: center;
-            /* margin: 20px auto; */
         }
     }
     
