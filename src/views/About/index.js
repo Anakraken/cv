@@ -6,8 +6,7 @@ import {
 } from './styles';
 import Presentation from './components/Presentation';
 import TechStack from './components/TechStack';
-import Languages from './components/Languages';
-import Experience from './components/Experience';
+import LanEdu from './components/LanEdu';
 
 const About = () => {
   return (
@@ -18,13 +17,7 @@ const About = () => {
       </Title> 
       <Presentation />
     <TechStack />
-    <Languages />
-
-      <h1>Education</h1>
-      <p>
-      Computer Engineering at UADY (Universidad Autónoma del Estado de Yucatán)
-      </p>
-    <Experience />
+    <LanEdu />
   </AboutContainer>
   )
 }
