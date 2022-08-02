@@ -2,6 +2,11 @@ import styled from 'styled-components';
 import {colors} from '../../resources/theme';
 
 const FooterContainer = styled.section`
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
     background-color: ${colors.mid};
     padding-bottom: 30px;
     text-align: center;
@@ -24,7 +29,8 @@ const FooterContainer = styled.section`
 
     p{
         font-size: 20px;
-        margin-bottom: 0;
+        width: 95%;
+        margin: 20px auto 0 auto;
     }
 `;
 
