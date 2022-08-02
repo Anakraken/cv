@@ -87,7 +87,7 @@ Linkedin Profile: https://www.linkedin.com/in/anakrakennn/
 
 <br>
 
-Last version of this CV: https://github..com/Anakraken/portfolio
+Last version of this CV: https://github.com/Anakraken/portfolio
 
 Docs from my code talks:
 - https://jamboard.google.com/d/1H08EdamGAC7eNf8QVNeFafeZ6BwNwRtPBD3Ykxo5csg/viewer?f=0
