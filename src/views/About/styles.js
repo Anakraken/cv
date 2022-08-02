@@ -1,7 +1,8 @@
 import styled from "styled-components";
-import { colors } from "../../resources/theme";
+import { colors, device } from "../../resources/theme";
 
 const AboutContainer = styled.div`
+    width: 100%;
     background-color: ${colors.secondary};
     color: ${colors.clear};
 
@@ -32,6 +33,19 @@ const Title = styled.div`
         svg {
             width: 60px;
         }
+    }
+
+    @media ${device.mobile} {
+        h1 {font-size: 50px;}
+
+        h2 {
+        font-size: 25px;
+
+        svg {
+            margin-left: -10px;
+        }
+    }
+
     }
 `;
 

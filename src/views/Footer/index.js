@@ -12,7 +12,7 @@ const Footer = () => {
       email: <a>anakraken@gmail.com</a>
       </p>
       
-      <p>
+      {/* <p>
         Last version of this CV: 
         <a href='https://github.com/Anakraken/portfolio/blob/main/README.md'>https://github.com/Anakraken/portfolio</a>
       </p>
@@ -31,7 +31,7 @@ const Footer = () => {
         <a href='https://jamboard.google.com/d/1qmk2OGrl0XLArgN_LUBbs7BurBOxHuN_3BVnwAbJ0ow/viewer?f=0'>
           jamboard.Asincronismo      
         </a>
-      </p>
+      </p> */}
     
     </FooterContainer>
   )

@@ -13,7 +13,9 @@ const About = () => {
     <AboutContainer id="about">
       <Title>
             <h1>Hello Stranger!</h1> 
-            <h2>Let's work togheter<Shine/></h2>  
+            <h2>Let's work togheter
+              <Shine/>
+            </h2>  
       </Title> 
       <Presentation />
     <TechStack />

@@ -4,7 +4,7 @@ import {
   Grid,
   IconsGrid
 } from "./styles";
-import PP from '../../resources/img/pp.png';
+import PP from '../../resources/img/pps.png';
 import Twitter from '../../resources/img/twitter';
 import Logo from '../../resources/img/Logo';
 import Github from '../../resources/img/github';
