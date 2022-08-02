@@ -15,7 +15,7 @@ I’m experienced in HTML and CSS,Javascript, React, Redux, Typescript, Jest, Un
 
 My most powerful skills is my unusual ability to use styled component as no one else. I am also really good setting SOLID patterns in the code structure to design an efficient and scalable code.
 
-I have a extensive of experience working with diverse teams, so my communications skills are pretty great.
+I have extensive experience working with diverse teams, so my communications skills are pretty great.
 
 <br>
 
