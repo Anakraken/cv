@@ -11,7 +11,7 @@
 
 I’m a very energetic  frontend developer with experience in design and create websites and web applications. 
 
-I’m experienced in HTML and CSS,Javascript, React, Redux, Typescript, Jest, Unit testing whit React testing library.
+I’m experienced in HTML and CSS,Javascript, React, Redux, Typescript, Jest, Unit testing with React testing library.
 
 My most powerful skills is my unusual ability to use styled component as no one. I'm also really good setting SOLID patterns in the code structure to get a better and scalable code.
 
