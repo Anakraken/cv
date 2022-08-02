@@ -31,6 +31,6 @@ export const colors = {
     light: '#F2B63C',
     clear: '#ffffd7',
     dark: "#000000",
-    shadow: "#03326956",
+    shadow: "#8F144203",
     disabled: "#EDEDED",   
 };

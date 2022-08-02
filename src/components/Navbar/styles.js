@@ -3,12 +3,14 @@ import { colors } from "../../resources/theme";
 
 const Container = styled.div`
     width: 100vw;
+    height: 60px;
     padding-top: 50px;
     display: flex;
     align-items: start;
     justify-content: space-evenly;
-    background-color: transparent;
+    background: ${({ active }) => active ? colors.primary : 'transparent' };
     position: fixed;
+    z-index: 10000;
 `;
 
 const NavItem = styled.a`
@@ -27,12 +29,15 @@ const NavItem = styled.a`
     }
     &:hover .under {
         display: flex;
+        transition: 0.8s all ease;
     }
     &:active .under {
         display: flex;
+        transition: 0.8s all ease;
     }
     &:focus .under {
         display: flex;
+        transition: 0.9s all ease;
     }
 `;
 
