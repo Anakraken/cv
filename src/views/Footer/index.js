@@ -14,7 +14,7 @@ const Footer = () => {
       
       <p>
         Last version of this CV: 
-        <a>https://github.com/Anakraken/portfolio</a>
+        <a href='https://github.com/Anakraken/portfolio/blob/main/README.md'>https://github.com/Anakraken/portfolio</a>
       </p>
 
 
