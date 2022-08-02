@@ -21,14 +21,14 @@ const Footer = () => {
 
 
       <p>        
-      Git code talks:
+      Git code talk:
         <a href='https://jamboard.google.com/d/1H08EdamGAC7eNf8QVNeFafeZ6BwNwRtPBD3Ykxo5csg/viewer?f=0'>
           jamboared.git
         </a>
       </p>
 
       <p>        
-      Asincronismo code talks:
+      Asincronismo code talk:
         <a href='https://jamboard.google.com/d/1qmk2OGrl0XLArgN_LUBbs7BurBOxHuN_3BVnwAbJ0ow/viewer?f=0'>
           jamboard.Asincronismo      
         </a>

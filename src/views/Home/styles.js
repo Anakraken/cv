@@ -13,8 +13,7 @@ const Background = styled.div`
 
     @media ${device.mobile} { 
         display: grid;
-        grid-template-columns: 65% 35%;
-        padding-left: 5px;
+        grid-template-columns: 70% 30%;
     }
 `;
 

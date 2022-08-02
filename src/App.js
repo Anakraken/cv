@@ -8,8 +8,8 @@ import Footer from './views/Footer';
 function App() {
   return (
     <>
-    {/* <Navbar /> */}
-    {/* <Home /> */}
+    <Navbar />
+    <Home />
     <About />
     <Experience />
     <Footer />
