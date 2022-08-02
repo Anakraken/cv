@@ -53,7 +53,12 @@ Yucatán)
 <br>
 ### WIZELINE
 ( January 2022 - JULY 2022)
+<br>
+Global technology services company.
+<br>
 I worked as a react frontend developer for a few wizeline clients, as well as in several internal projects of the company.
+<br>
+During my time at Wizeline I had the opportunity to give talks about Git and asynchrony in JS, I also had the opportunity to train a work team on how to have a clean and scalable code, as well as support with the design of architectures for it. frontend.
 <br>
 <br>
 

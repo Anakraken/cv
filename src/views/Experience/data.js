@@ -2,9 +2,13 @@ export const exp = [
     { id: 0,
       title: 'WIZELINE',
       date: '(January 2022 - July 2022)',
-      description:'',
+      description:'Global technology services company.',
       exp: [
-        'I worked as a react frontend developer for a few wizeline clients, as well as in several internal projects of the company.'
+        'I worked as a react frontend developer for a few wizeline clients, as well as in several internal projects of the company.',
+        'During my time at Wizeline I had the opportunity to ',
+        'give talks about Git and asynchrony in JS,',
+        'I also had the opportunity to train a work team on how to have a clean and scalable code,',
+        ' as well as support with the design of architectures for the frontend.'
       ]
     },
     { id: 1,
