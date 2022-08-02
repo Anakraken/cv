@@ -1,7 +1,7 @@
 export const exp = [
     { id: 0,
       title: 'WIZELINE',
-      date: '(January 2022 - JULY 2022)',
+      date: '(January 2022 - July 2022)',
       description:'',
       exp: [
         'I worked as a react frontend developer for a few wizeline clients, as well as in several internal projects of the company.'

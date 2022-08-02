@@ -29,7 +29,7 @@ const Presentation = () => {
           </PowerText>
 
           <RegularText>
-          I have a lot of experience working whit teams, so my communications skills are pretty great.
+          I have a lot of experience working with teams, so my communications skills are pretty optimal.
           </RegularText>
         </InfoContainer>
       </PresentationContainer>
