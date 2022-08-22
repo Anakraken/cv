@@ -14,6 +14,7 @@ const Container = styled.div`
 `;
 
 const NavItem = styled.a`
+    max-width: 120px;
 
     .under {
         max-width: fit-content;
