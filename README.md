@@ -9,11 +9,11 @@
 
 ## About me
 
-I’m a very energetic  frontend developer with experience in design and create websites and web applications. 
+I’m a very energetic frontend developer with experience in design and create websites and web applications. 
 
 I’m experienced in HTML and CSS,Javascript, React, Redux, Typescript, Jest, Unit testing with React testing library.
 
-My most powerful skills is my unusual ability to use styled component as no one. I'm also really good setting SOLID patterns in the code structure to get a better and scalable code.
+My most powerful skills is my unusual ability to use styled component as no one else. I am also really good setting SOLID patterns in the code structure to design an efficient and scalable code.
 
 I have a lot of experience working with teams, so my communications skills are pretty optimal.
 
@@ -27,7 +27,7 @@ I have a lot of experience working with teams, so my communications skills are p
 <br>
 **Novice:** Typescript, NodeJS,Redux.
 <br> 
-**Extra:** SVG animations with CSS/Styled Components.
+**Extra:** SVG animations with CSS/Styled Components
 <br>
 <br>
 
@@ -48,7 +48,7 @@ Yucatán)
 
 # Experience (Only last 3)
 
-(Disclaimer: Many of the project I'd worked are properties of my formers employers and they don't want to publish information on then, hence I won't describe any detail that can compromise this)
+(Disclaimer: Many of the project I have worked on are owned by my formers employers and are protected under Non Disclosure Agreements, hence I will not go into too much detail)
 <br>
 <br>
 ### WIZELINE
@@ -64,23 +64,23 @@ During my time at Wizeline I had the opportunity to give talks about Git and asy
 
 ### FRONTEND DEVELOPER AT ROOFTOP VENTURES LLC
 ( October 2020 – December 2021 )
-Development of a system that provides restaurant consumption charts and statistics and an
-application to make orders in the restaurant QUINCE in San Miguel de Allende.
+Development of a dashboard that provides restaurant consumption charts and analytics and an
+application to make orders in the QUINCE restaurant in San Miguel de Allende.
 - Frontend development of UI using technologies such as React, Material UI, styled
 components, css, sass and tailwind.
-- Create an deploy a component library for the UI with vanilla css (Also the documentation too).
-- Refactor and clean code.
-- Remote work with coworkersdifferent countries and client in Texas, USA.
+- Create an deploy a component library for the UI with vanilla css with complete documentation.
+- Refactor the existing codebase according to the latest design patterns and best practices.
+- Remote work and coordination with coworkers across various timezons and the client in Texas, USA.
 - Agile Methodologies: SCRUM.
 <br>
 <br>
 
 ### IntOr CONSULTORES
 ( November 2018 – October 2020 )
-Consulting and training for companies.
-- UX and UI designer.
+Technology consulting and training for companies.
+- UX and UI design.
 - Create landing pages with wordpress.
-- Web aplications using very basic react, javascript, bootstrap, laravel, pug, sass and css.
+- Programmed web aplications using react, javascript, bootstrap, laravel, pug, sass and css.
 - Teaching courses.
 
 <br>
