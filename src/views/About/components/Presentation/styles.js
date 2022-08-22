@@ -74,11 +74,21 @@ const PowerText = styled.div`
     margin: 20px auto;
 `;
 
+const ProfileContainer = styled.div`
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    margin-bottom: 40px;
+`;
 
 export {
     PresentationContainer,
     InfoContainer,
     RegularText,
     ExpShineText,
-    PowerText
+    PowerText,
+    ProfileContainer
 };

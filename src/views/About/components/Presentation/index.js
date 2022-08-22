@@ -4,15 +4,20 @@ import {
   InfoContainer,
   RegularText,
   ExpShineText,
-  PowerText
+  PowerText,
+  ProfileContainer
 } from './styles';
 import AboutPic from '../../../../resources/img/pp2s.png';
 import Shine from '../../../../resources/img/Shine';
+import Button from '../../../../components/Button';
 
 const Presentation = () => {
   return (
     <PresentationContainer>
-        <img src={AboutPic} alt="Profile-Pic2"/>
+        <ProfileContainer>
+          <img src={AboutPic} alt="Profile-Pic2"/>
+          <Button />
+        </ProfileContainer>
 
         <InfoContainer >
           <RegularText>
@@ -29,7 +34,7 @@ const Presentation = () => {
           </PowerText>
 
           <RegularText>
-          I have a lot of experience working whit teams, so my communications skills are pretty great.
+          I have a lot of experience working with teams, so my communications skills are pretty optimal.
           </RegularText>
         </InfoContainer>
       </PresentationContainer>

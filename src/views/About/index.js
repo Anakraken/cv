@@ -13,7 +13,7 @@ const About = () => {
     <AboutContainer id="about">
       <Title>
             <h1>Hello Stranger!</h1> 
-            <h2>Let's work togheter
+            <h2>Let's work together
               <Shine/>
             </h2>  
       </Title> 

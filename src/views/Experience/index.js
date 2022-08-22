@@ -5,6 +5,7 @@ import {
 import ExpItem from './components/expItem';
 import ExpTitle from './components/expTitle';
 import { exp } from './data';
+import Button from '../../components/Button';
 
 const Experience = () => {
   return (
@@ -26,6 +27,8 @@ const Experience = () => {
             />
           ))
         }
+
+        <Button />
     </ExpContainer>
   )
 }
