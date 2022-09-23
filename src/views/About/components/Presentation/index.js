@@ -16,7 +16,7 @@ const Presentation = () => {
     <PresentationContainer>
         <ProfileContainer>
           <img src={AboutPic} alt="Profile-Pic2"/>
-          <Button />
+          {/* <Button /> */}
         </ProfileContainer>
 
         <InfoContainer >
