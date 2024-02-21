@@ -1,5 +1,5 @@
 import React from 'react'
-import {LanEduContainer} from './styles';
+import { LanEduContainer } from './styles';
 
 const LanEdu = () => {
   return (
@@ -11,17 +11,17 @@ const LanEdu = () => {
         </p>
 
         <p>
-          <strong>English</strong> -- B1
+          <strong>English</strong> -- B2
         </p>
       </div>
 
       <div>
         <h1>Education</h1>
-          <p>
+        <p>
           Computer Engineering at UADY
           <br />
-           (Universidad Autónoma del Estado de Yucatán)
-          </p>
+          (Universidad Autónoma del Estado de Yucatán)
+        </p>
       </div>
     </LanEduContainer>
   )

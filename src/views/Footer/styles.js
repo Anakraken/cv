@@ -1,22 +1,22 @@
 import styled from 'styled-components';
-import {colors} from '../../resources/theme';
+import { colors } from '../../resources/theme';
 
 const FooterContainer = styled.section`
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
 
     background-color: ${colors.mid};
-    padding-bottom: 30px;
+    padding-bottom: 60px;
     text-align: center;
 
-    h1{
-        margin: 0;
+    h2 {
         color: ${colors.dark};
         font-size: 40px;
-        padding-top: 30px;
-        text-decoration: underline;
+        padding: 0;
+        margin-bottom: 0;
     }
 
     a{

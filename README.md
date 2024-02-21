@@ -46,9 +46,47 @@ Yucatán)
 
 <br><br>
 
-# Experience (Only last 3)
+# Experience (Only last 4)
 
 (Disclaimer: Many of the project I have worked on are owned by my formers employers and are protected under Non Disclosure Agreements, hence I will not go into too much detail)
+<br>
+<br>
+### NETWORTH
+( October 2022 – Current)
+<br>
+Retirement insurance agency.
+<br>
+Custom calculator for the insurance agency. This platform is responsible formanaging customer's data, and making custom calculations of retirement insurance.
+<br>
+Responsibilities:
+<br>
+- Design a new interface for the savings calculator internal program that estimates the maximum
+amount of money a person can have in their retirement according to their monthly savings.
+- Implemented that calculator leveraging using Next for the front-end and Express for the back-end.
+- Create a custom API Restfull for this project.
+- Use MongoDB for database storage.
+- Deployment in AWS (S3 and EC2).
+<br>
+## Used languages and technologies: 
+- Redux Toolkit, NextJS, ExpressJS, API-Restfull, MongoDB, AWS.
+<br>
+Custom software for the insurance agency. The objective of this software is to get the data from the clients and validate the veracity of that information.
+<br>
+Responsibilities:
+<br>
+- Use React to modify an existing project to accomplish the new needs of the company.
+- Add Twilio verifications for phone numbers.
+- Add Mati to validate the veracity of official documents.
+- Add Redux to create a new layer in charge of managing the unique storage of the data.
+<br>
+## Used languages and technologies: 
+- React, JavaScript, Redux Toolkit, Mati, and Twilio.
+<br>
+New Landing. I re-design and create a new landing, as a plus, I add a custom form to get more agile with the customer's data (prev their used Typeform and lost a lot of possible customers), and I even improved the workflow, adding a custom calculator specified for this project, and added a function for creatinga pdf of the information resulted of the calculator and sent by email,this shortens intermediate process between the assessors and the clients.
+
+## Used languages and technologies: 
+- NextJS, Redux Toolkit, Twilio, custom lambda from AWS, ExpressJS, MongoDB.
+
 <br>
 <br>
 ### WIZELINE

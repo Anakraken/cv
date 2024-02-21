@@ -8,28 +8,29 @@ const TechStack = () => {
   return (
     <TSContainer>
       <div className='info'>
-        <br/>
+        <br />
         <p> <strong>Strong:</strong>
-        HTML/CSS, Styled Components, React.
-        </p> 
+          HTML/CSS, Styled Components, Javascript, ReactJS.
+        </p>
 
         <p> <strong>Proficient:</strong>
-        JavaScript, Gastby, Jest, React Testing Library.
-        </p> 
+          NextJS, NodeJs, ReduxToolkit.
+        </p>
 
         <p> <strong>Novice:</strong>
-        Typescript, NodeJS,Redux.
-        </p> 
+          Typescript, AWS, Vercel, Heroku, Restfull API, MongoDB, GraphQL.
+        </p>
 
         <p> <strong>Extra:</strong>
-          SVG animations with CSS/Styled Components
-        </p> 
+          SVG animations with CSS/Styled Components,
+          Web Design, Adobe illustraitor and Adobe XD
+        </p>
       </div>
 
-    <div className='section_title'>
-      <img src={FrontLogo} alt="logo2" />
-      <h1>Tech Stack</h1>
-    </div>
+      <div className='section_title'>
+        <img src={FrontLogo} alt="logo2" />
+        <h1>Tech Stack</h1>
+      </div>
     </TSContainer>
   )
 };
