@@ -21,13 +21,13 @@ I have a lot of experience working with teams, so my communications skills are p
 
 # Tech Stack
 
-**Strong:** HTML/CSS, Styled Components, React.
+**Strong:** HTML/CSS, Styled Components, Javascript, ReactJS.
 <br>
-**Proficient:** JavaScript, Gastby, Jest, React Testing Library.
+**Proficient:** NextJS, NodeJs, ReduxToolkit.
 <br>
-**Novice:** Typescript, NodeJS,Redux.
+**Novice:** Typescript, AWS, Vercel, Heroku, Restfull API, MongoDB, GraphQL.
 <br> 
-**Extra:** SVG animations with CSS/Styled Components
+**Extra:** SVG animations with CSS/Styled Components, Web Design, Adobe illustraitor and Adobe XD
 <br>
 <br>
 
@@ -35,7 +35,7 @@ I have a lot of experience working with teams, so my communications skills are p
 
 __Spanish__ -> Native
 <br>
-__English__ -> B1
+__English__ -> B2
 
 
 <br>
